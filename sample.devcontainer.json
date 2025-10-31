@@ -1,0 +1,12 @@
+{
+  "name": "rust",
+  "image": "mcr.microsoft.com/devcontainers/rust:2-1",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "rust-lang.rust-analyzer",
+        "vadimcn.vscode-lldb"
+      ]
+    }
+  }
+}
